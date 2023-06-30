@@ -1,12 +1,14 @@
 ### Hi there 👋
 ![Background](Background.jpg)
+)
 <style>
 body {
-  background-image: url('https://path/to/your/image.jpg');
+  background-image: url('Background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 </style>
+
 
 
 
