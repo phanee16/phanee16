@@ -5,7 +5,7 @@
   
 <p align="center">
   <a href="https://github.com/phanee16">
-    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width = "200" height = "50" />
+    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width = "500" height = "100" />
   </a>
 </p>
 
