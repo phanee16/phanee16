@@ -30,7 +30,7 @@
 </div>
 
 
-## Skills
+## 💻 Technical Skills
 
 ### Programming Languages
 <div>
