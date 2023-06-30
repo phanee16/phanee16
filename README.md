@@ -8,4 +8,8 @@
 - 📫 How to reach me: You can reach me by sending an email to venkatasaiphaneesha@gmail.com or by connecting with me on https://www.linkedin.com/in/phaneesha-chilaveni/, where my username is Venkata Sai Phaneesha Chilevni.
 
 
+## 🔗 Connect with Me
+- [LinkedIn]((https://www.linkedin.com/in/phaneesha-chilaveni/))
+
+- [Medium]((https://medium.com/@PhaneeshaChilaveni)
 
