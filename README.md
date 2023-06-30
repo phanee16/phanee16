@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Background](![image](https://github.com/phanee16/phanee16/assets/47351536/e5985a13-165f-4983-b642-79f9777b99f4)
+![Background](Background.jpg)
 )
 
 
