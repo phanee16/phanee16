@@ -67,13 +67,36 @@
 </div>
 
 ### Data Science skills:
+- Visualization:
 <div>
+<img src="https://img.shields.io/badge/-Matplotlib-%233776AB?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/-Seaborn-%23202020?style=for-the-badge&logo=seaborn&logoColor=white">
+<img src="https://img.shields.io/badge/-Plotly-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/-Bokeh-%23E94B3C?style=for-the-badge&logo=bokeh&logoColor=white">
+<img src="https://img.shields.io/badge/-Ggplot-%2337A7A7?style=for-the-badge&logo=ggplot&logoColor=white">
+</div>
+- Machine Learning:
+<div>
+ <img src="https://img.shields.io/badge/-Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/-XGBoost-%2306548B?style=for-the-badge&logo=xgboost&logoColor=white">
+<img src="https://img.shields.io/badge/-LightGBM-%233C4989?style=for-the-badge&logo=lightgbm&logoColor=white">
+<img src="https://img.shields.io/badge/-CatBoost-%233F4E8D?style=for-the-badge&logo=catboost&logoColor=white">
+<img src="https://img.shields.io/badge/-Random%20Forest-%236A455D?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="https://img.shields.io/badge/-Machine%20Learning-%23F7931E?style=for-the-badge&logo=machine-learning&logoColor=white">
-<img src="https://img.shields.io/badge/-Deep%20Learning-%23000000?style=for-the-badge&logo=deep-learning&logoColor=white">
-<img src="https://img.shields.io/badge/-NLP-%2300BFFF?style=for-the-badge&logo=natural-language-processing&logoColor=white">
-<img src="https://img.shields.io/badge/-Data%20Visualization-%23FF6F00?style=for-the-badge&logo=data-visualization&logoColor=white">
-<img src="https://img.shields.io/badge/-Data%20Engineering-%2300B0B9?style=for-the-badge&logo=data-engineering&logoColor=white">
-<img src="https://img.shields.io/badge/-Data%20Analytics-%23F05340?style=for-the-badge&logo=data-analytics&logoColor=white">
+</div>
+- NLP:
+<div>
+ <img src="https://img.shields.io/badge/-NLTK-%234E2A68?style=for-the-badge&logo=nltk&logoColor=white">
+<img src="https://img.shields.io/badge/-spaCy-%2312B886?style=for-the-badge&logo=spacy&logoColor=white">
+<img src="https://img.shields.io/badge/-Gensim-%234C4C4C?style=for-the-badge&logo=gensim&logoColor=white">
+<img src="https://img.shields.io/badge/-Hugging%20Face-%23605DEC?style=for-the-badge&logo=hugging-face&logoColor=white">
+</div>
+- Data Analysis:
+<div>
+ <img src="https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/-NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/-SciPy-%239C9C9C?style=for-the-badge&logo=scipy&logoColor=white">
+<img src="https://img.shields.io/badge/-Dask-%233769AC?style=for-the-badge&logo=dask&logoColor=white">
+<img src="https://img.shields.io/badge/-Vaex-%23645B9B?style=for-the-badge&logo=vaex&logoColor=white">
 
 </div>
