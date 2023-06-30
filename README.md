@@ -75,6 +75,7 @@
 <img src="https://img.shields.io/badge/-Bokeh-%23E94B3C?style=for-the-badge&logo=bokeh&logoColor=white">
 <img src="https://img.shields.io/badge/-Ggplot-%2337A7A7?style=for-the-badge&logo=ggplot&logoColor=white">
 </div>
+
 - Machine Learning:
 <div>
  <img src="https://img.shields.io/badge/-Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -84,6 +85,7 @@
 <img src="https://img.shields.io/badge/-Random%20Forest-%236A455D?style=for-the-badge&logo=python&logoColor=white">
 
 </div>
+
 - NLP:
 <div>
  <img src="https://img.shields.io/badge/-NLTK-%234E2A68?style=for-the-badge&logo=nltk&logoColor=white">
@@ -91,6 +93,7 @@
 <img src="https://img.shields.io/badge/-Gensim-%234C4C4C?style=for-the-badge&logo=gensim&logoColor=white">
 <img src="https://img.shields.io/badge/-Hugging%20Face-%23605DEC?style=for-the-badge&logo=hugging-face&logoColor=white">
 </div>
+
 - Data Analysis:
 <div>
  <img src="https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -98,5 +101,50 @@
 <img src="https://img.shields.io/badge/-SciPy-%239C9C9C?style=for-the-badge&logo=scipy&logoColor=white">
 <img src="https://img.shields.io/badge/-Dask-%233769AC?style=for-the-badge&logo=dask&logoColor=white">
 <img src="https://img.shields.io/badge/-Vaex-%23645B9B?style=for-the-badge&logo=vaex&logoColor=white">
+
+</div>
+
+### Data Engineer skills:
+
+- Big Data Processing:
+<div>
+ <img src="https://img.shields.io/badge/-Apache%20Hadoop-%23FABC0C?style=for-the-badge&logo=apache%20hadoop&logoColor=white">
+<img src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white">
+<img src="https://img.shields.io/badge/-Apache%20Kafka-%23000000?style=for-the-badge&logo=apache%20kafka&logoColor=white">
+<img src="https://img.shields.io/badge/-Hive-%23FF7A00?style=for-the-badge&logo=apache%20hive&logoColor=white">
+
+</div>
+
+- Data Warehousing:
+<div>
+ <img src="https://img.shields.io/badge/-Amazon%20Redshift-%23F64A1D?style=for-the-badge&logo=amazon%20redshift&logoColor=white">
+<img src="https://img.shields.io/badge/-Snowflake-%23000000?style=for-the-badge&logo=snowflake&logoColor=white">
+<img src="https://img.shields.io/badge/-Google%20BigQuery-%2300A1E0?style=for-the-badge&logo=google%20bigquery&logoColor=white">
+
+</div>
+
+- Data Pipelines and Workflow management:
+<div>
+ <img src="https://img.shields.io/badge/-Apache%20Airflow-%23027CEB?style=for-the-badge&logo=apache%20airflow&logoColor=white">
+<img src="https://img.shields.io/badge/-Luigi-%232C3E4C?style=for-the-badge&logo=luigi&logoColor=white">
+<img src="https://img.shields.io/badge/-Apache%20NiFi-%234BAA53?style=for-the-badge&logo=apache%20nifi&logoColor=white">
+<img src="https://img.shields.io/badge/-AWS%20Glue-%23E6522C?style=for-the-badge&logo=amazon%20aws&logoColor=white">
+
+</div>
+
+- Database management systems:
+<div>
+ <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/-Apache%20Cassandra-%23000000?style=for-the-badge&logo=apache%20cassandra&logoColor=white">
+
+</div>
+
+- Version Control and CI/CD:
+<div>
+ <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 </div>
