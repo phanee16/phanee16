@@ -17,9 +17,9 @@
 </div>
 
 ## Skilled in:
-<img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-R-%23276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/-Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
-<img src="https://img.shields.io/badge/-SQL-%23003B57?style=for-the-badge&logo=postgresql&logoColor=white">
+<a<img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a<img src="https://img.shields.io/badge/-R-%23276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+<a<img src="https://img.shields.io/badge/-Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
+<a<img src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"></a>
+<a<img src="https://img.shields.io/badge/-SQL-%23003B57?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
