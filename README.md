@@ -1,8 +1,8 @@
-### Hi there 👋
+### "🚀 Want to know more about my expertise? 🕵️‍♂️ Take a deeper dive into my profile and discover the realm of my skills and experiences. 🌟"
 
 <p align="center">
   <a href="https://github.com/phanee16">
-    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width="500" height="100" />
+    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width="800" height="100" />
   </a>
 </p>
 
