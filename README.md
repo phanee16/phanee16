@@ -7,7 +7,8 @@
   
 <p align="center">
   <a href="https://github.com/phanee16">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Phaneesha Chilaveni" /></a>
+    <img src="![image](https://github.com/phanee16/phanee16/assets/47351536/b3d312c8-91f6-4c86-9e3e-a7f69f2b8d58)
+" alt="Phaneesha Chilaveni" /></a>
 </p>
 
 <p align="center">
