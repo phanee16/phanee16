@@ -32,7 +32,7 @@
 
 ## 💻 Technical Skills
 
-### Programming Languages
+### 👨‍💻 Programming Languages
 <div>
  
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
@@ -46,14 +46,14 @@
 
 
 
-### Databases
+### 💾 Databases
 <div>
  
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 </div>
 
-### Tools
+### 🛠️ Tools
 <div>
  
 ![Tableau](https://img.shields.io/badge/-Tableau-%23E97627?style=flat&logo=tableau&logoColor=white)
@@ -68,7 +68,7 @@
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-%230D5BA9?style=flat&logo=apache-airflow&logoColor=white)
 </div>
 
-### Frameworks
+### 🔨 Frameworks
 <div>
  
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat&logo=flask&logoColor=white)
@@ -80,7 +80,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat&logo=pandas&logoColor=white)
 </div>
 
-### Data Science Libraries
+### 📊 Data Science Libraries
 <div>
  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -100,7 +100,7 @@
 ![Gym](https://img.shields.io/badge/-Gym-%231B55C1?style=flat&logo=python&logoColor=white)
 </div>
 
-### Data Engineering Tools
+### ⚙️ Data Engineering Tools
 <div>
  
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-%230D5BA9?style=flat&logo=apache-airflow&logoColor=white)
@@ -114,7 +114,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
 </div>
 
-### Cloud and Analytics Platforms
+### ☁️ Cloud and Analytics Platforms
 <div>
  
 ![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google%20Cloud%20Platform%20(GCP)-%234285F4?style=flat&logo=google-cloud&logoColor=white)
