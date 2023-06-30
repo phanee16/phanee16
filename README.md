@@ -29,12 +29,11 @@
 <img src="https://img.shields.io/badge/-SQL-%23CC2927?style=for-the-badge&logo=sql&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML/CSS-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-MATLAB-%23FF6600?style=for-the-badge&logo=mathworks&logoColor=white">
-
 </div>
 
 ### DataBases:
 <div>
-<img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
 </div>
