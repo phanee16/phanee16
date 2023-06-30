@@ -1,9 +1,9 @@
 ### Hi there 👋
-![Background](Background.jpg)
+![Background]([Background.jpg](https://github.com/phanee16/phanee16/blob/main/Background.jpg))
 )
 <style>
 body {
-  background-image: url('Background.jpg');
+  background-image: url('[Background.jpg](https://github.com/phanee16/phanee16/blob/main/Background.jpg)');
   background-repeat: no-repeat;
   background-size: cover;
 }
