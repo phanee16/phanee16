@@ -5,16 +5,14 @@
 ## 🔗 Connect with Me
 
 
- 
-<div align="center">
-  
-[![Medium](https://img.icons8.com/color/48/000000/medium.png)](https://medium.com/@PhaneeshaChilaveni)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:venkatasaiphaneesha@gmail.com)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/phaneesha-chilaveni/)
-[![Hackerrank](https://img.icons8.com/color/48/000000/hackerrank.png)](https://www.hackerrank.com/vchilave?hr_r=1)
-[![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/phanee16/)
-
+<div>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Hackerrank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank">
+  <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </div>
+
 
 
 
