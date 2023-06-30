@@ -1,17 +1,5 @@
 ### "🚀 Want to know more about my expertise? 🕵️‍♂️ Take a deeper dive into my profile and discover the realm of my skills and experiences. 🌟"
 
-<p align="center">
-  <a href="https://github.com/phanee16">
-    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width="800" height="150" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/phanee16/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Experienced%20Mathematics%20Tutor;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
 
 
 
