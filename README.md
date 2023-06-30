@@ -13,13 +13,24 @@
 <a href="https://medium.com/@PhaneeshaChilaveni" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="mailto:venkatasaiphaneesha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/phaneesha-chilaveni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href="https://www.hackerrank.com/vchilave?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>
+<a href="https://leetcode.com/phanee16/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
+
+
 </div>
 
 ## Skilled in:
-<a<img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a<img src="https://img.shields.io/badge/-R-%23276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
-<a<img src="https://img.shields.io/badge/-Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
-<a<img src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"></a>
-<a<img src="https://img.shields.io/badge/-SQL-%23003B57?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<div>
+<img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-R-%23276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/-Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+<img src="https://img.shields.io/badge/-SQL-%23003B57?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/-Machine%20Learning-%23F7931E?style=for-the-badge&logo=machine-learning&logoColor=white">
+<img src="https://img.shields.io/badge/-Deep%20Learning-%23000000?style=for-the-badge&logo=deep-learning&logoColor=white">
+<img src="https://img.shields.io/badge/-NLP-%2300BFFF?style=for-the-badge&logo=natural-language-processing&logoColor=white">
+<img src="https://img.shields.io/badge/-Data%20Visualization-%23FF6F00?style=for-the-badge&logo=data-visualization&logoColor=white">
+<img src="https://img.shields.io/badge/-Data%20Engineering-%2300B0B9?style=for-the-badge&logo=data-engineering&logoColor=white">
+<img src="https://img.shields.io/badge/-Data%20Analytics-%23F05340?style=for-the-badge&logo=data-analytics&logoColor=white">
 
+</div>
