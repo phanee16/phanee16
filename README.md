@@ -24,6 +24,7 @@
 
 ### Programming Languages
 <div>
+ 
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-%23276DC3?style=flat&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat&logo=java&logoColor=white)
@@ -34,14 +35,17 @@
 </div>
 
 
+
 ### Databases
 <div>
+ 
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 </div>
 
 ### Tools
 <div>
+ 
 ![Tableau](https://img.shields.io/badge/-Tableau-%23E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-%23217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![GCP Stack](https://img.shields.io/badge/-GCP%20Stack-%234285F4?style=flat&logo=google-cloud&logoColor=white)
@@ -56,6 +60,7 @@
 
 ### Frameworks
 <div>
+ 
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat&logo=flask&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-%23D00000?style=flat&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -67,6 +72,7 @@
 
 ### Data Science Libraries
 <div>
+ 
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Folium](https://img.shields.io/badge/-Folium-%23529F4E?style=flat&logo=python&logoColor=white)
 ![Geo-Py](https://img.shields.io/badge/-Geo--Py-%2300645F?style=flat&logo=python&logoColor=white)
@@ -86,6 +92,7 @@
 
 ### Data Engineering Tools
 <div>
+ 
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-%230D5BA9?style=flat&logo=apache-airflow&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-%234EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-%23000000?style=flat&logo=apache-kafka&logoColor=white)
@@ -99,6 +106,7 @@
 
 ### Cloud and Analytics Platforms
 <div>
+ 
 ![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google%20Cloud%20Platform%20(GCP)-%234285F4?style=flat&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-%23FABC0C?style=flat&logo=google-cloud&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-%23EF4F33?style=flat&logo=looker&logoColor=white)
