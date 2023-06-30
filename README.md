@@ -9,15 +9,45 @@
   </a>
 </p>
 
-<p align="center">
-  <h1 style="color: #f75c7e;">Phaneesha Chilaveni</h1>
-</p>
 
 <p align="center">
   <a href="https://github.com/phanee16/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Experienced%20Mathematics%20Tutor;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Experienced%20Mathematics%20Tutor;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/phanee16/readme-typing-svg">
+    <img id="typing-svg" src="" />
+  </a>
+</p>
+
+<script>
+function getRandomColor() {
+  // Generate a random color code
+  var letters = '0123456789ABCDEF';
+  var color = '#';
+  for (var i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
+  }
+  return color;
+}
+
+function updateTypingSVG() {
+  // Get the typing SVG element
+  var typingSVG = document.getElementById('typing-svg');
+  
+  // Generate a random color
+  var color = getRandomColor();
+  
+  // Update the URL of the image with the new color
+  typingSVG.src = 'https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Experienced%20Mathematics%20Tutor;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=' + color + '&vCenter=true&pause=1000&size=22';
+}
+
+// Call the function initially and then every few seconds to update the color
+updateTypingSVG();
+setInterval(updateTypingSVG, 5000); // Change color every 5 seconds
+</script>
+
 
 
 
