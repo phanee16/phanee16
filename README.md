@@ -5,11 +5,10 @@
   
 <p align="center">
   <a href="https://github.com/phanee16">
-    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width = "100" height = "50" />
+    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width = "200" height = "50" />
   </a>
 </p>
 
-<h1 align="center">Phaneesha Chilaveni</h1>
 
 <p align="center">
   <a href="https://github.com/phanee16/readme-typing-svg">
