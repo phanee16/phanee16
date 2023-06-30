@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/phanee16">
-    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width="800" height="100" />
+    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width="800" height="150" />
   </a>
 </p>
 
