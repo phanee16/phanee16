@@ -1,8 +1,6 @@
 ### "🚀 Want to know more about my expertise? 🕵️‍♂️ Take a deeper dive into my profile and discover the realm of my skills and experiences. 🌟"
 
 
-https://github.com/phanee16/phanee16/blob/main/WhatsApp%20Video%202023-06-30%20at%203.10.02%20PM.mp4
-
 
 ## 🔗 Connect with Me
 
