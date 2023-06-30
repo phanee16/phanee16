@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Background](https://path/to/your/image.jpg)
 
 
 
@@ -7,7 +8,7 @@
   
 <p align="center">
   <a href="https://github.com/phanee16">
-    <img src="![image](https://github.com/phanee16/phanee16/assets/47351536/b3d312c8-91f6-4c86-9e3e-a7f69f2b8d58)
+    <img src="
 " alt="Phaneesha Chilaveni" /></a>
 </p>
 
