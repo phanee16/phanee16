@@ -14,6 +14,36 @@
 </div>
 
 
+## 🎓 Education
+
+- Master of Science in Data Science, University at Buffalo (2023)
+  - Relevant coursework: Machine Learning, Big Data Analytics, Data Visualization
+
+- Master of Science in Advanced Manufacturing Systems, Jawaharlal Nehru Technological University (2021)
+  - Relevant coursework: Industrial Automation, Supply Chain Management, Lean Manufacturing Principles
+
+## 💼 Work Experience
+### Data Scientist Intern | Marvel Technology Solutions | Jun 2022 - Aug 2022
+
+- Developed a recommendation system for an e-commerce company using Python.
+- Utilized collaborative filtering, content-based filtering, and Tableau for data visualization.
+- Employed advanced techniques like dimensionality reduction and TensorFlow for deep learning.
+
+### Data Scientist | ValueMomentum | Hyderabad, India | May 2019 – July 2021
+
+- Developed a content-based recommendation engine for the Whitecoats application, suggesting relevant articles.
+- Conducted data analysis and generated embeddings for similarity measurement.
+- Streamlined business categorization using web scraping and text classification techniques.
+- Contributed to enhancing user experience and facilitating accurate risk assessment.
+
+## 🎯 Hobbies and Interests
+
+- Cooking
+- River Rafting
+- Ice Skating
+- Kayaking
+- Painting
+- Mobile games
 
 
 ## 💻 Technical Skills
