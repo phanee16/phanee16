@@ -1,28 +1,18 @@
 ### Hi there 👋
-![Background](https://github.com/phanee16/phanee16/blob/main/Background.jpg)
-
-
-
-
-
-
 
 - 🌱 I'm currently learning and expanding my knowledge in the field of artificial intelligence and machine learning. I'm exploring various algorithms, frameworks, and techniques to deepen my understanding and improve my skills in areas such as deep learning, natural language processing, and computer vision. I'm excited to stay updated with the latest advancements in the field and apply my learnings to real-world projects.
 - 👯 I'm looking to collaborate on innovative projects that involve artificial intelligence, machine learning, and data analysis. I'm particularly interested in working on projects related to computer vision, natural language processing, and predictive modeling. I'm eager to join a team where I can contribute my skills and expertise while learning from others and creating impactful solutions. If you have any exciting collaboration opportunities, I'd be thrilled to hear about them!
   
 <p align="center">
-  <a href="https://github.com/phanee16">
-    <img src="https://github.com/phanee16/phanee16.github.io/blob/main/assets/img/About/about_transparent.png" alt="Phaneesha Chilaveni" />
-  </a>
+  <h1>Phaneesha Chilaveni</h1>
 </p>
-
-<h1 align="center">Phaneesha Chilaveni</h1>
 
 <p align="center">
   <a href="https://github.com/phanee16/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Experienced%20Mathematics%20Tutor;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
 
 
 ## 🔗 Connect with Me
