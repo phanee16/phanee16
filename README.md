@@ -4,8 +4,12 @@
 - 👯 I'm looking to collaborate on innovative projects that involve artificial intelligence, machine learning, and data analysis. I'm particularly interested in working on projects related to computer vision, natural language processing, and predictive modeling. I'm eager to join a team where I can contribute my skills and expertise while learning from others and creating impactful solutions. If you have any exciting collaboration opportunities, I'd be thrilled to hear about them!
   
 <p align="center">
-  <h1>Phaneesha Chilaveni</h1>
+  <a href="https://github.com/phanee16">
+    <img src="https://github.com/phanee16/phanee16/blob/main/name.png" alt="Phaneesha Chilaveni" width = "100" height = "50" />
+  </a>
 </p>
+
+<h1 align="center">Phaneesha Chilaveni</h1>
 
 <p align="center">
   <a href="https://github.com/phanee16/readme-typing-svg">
