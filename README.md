@@ -22,13 +22,13 @@
 
 ## 💼 Recent Work Experience
 ### Data Scientist-Team Lead, Community Dreams Foundation, USA (Volunteer)                                           Jul 2023 - Present
-• **Led** a dynamic team of data analysts, leveraging computer vision techniques for in-depth energy data analysis.
-• Established an efficient and scalable database infrastructure, integrating **web scraping** for real-time data acquisition.
-• Applied advanced **statistical models, data visualization, and computer vision** to uncover intricate patterns and trends.
-• Pioneered a customized chatbot using cutting-edge **Large Language Model (LLM)** technology for personalized interactions.
-• Collaborated with experts and community partners to translate **data insights** into sustainable energy strategies.
-• Building a **GCP-based database**, creating **Power BI and Tableau** dashboards for data analysis.
-• Developing a recommendation engine for personalized incentives and integrating **Langchain** technology.
+- **Led** a dynamic team of data analysts, leveraging computer vision techniques for in-depth energy data analysis.
+- Established an efficient and scalable database infrastructure, integrating **web scraping** for real-time data acquisition.
+- Applied advanced **statistical models, data visualization, and computer vision** to uncover intricate patterns and trends.
+- Pioneered a customized chatbot using cutting-edge **Large Language Model (LLM)** technology for personalized interactions.
+- Collaborated with experts and community partners to translate **data insights** into sustainable energy strategies.
+- Building a **GCP-based database**, creating **Power BI and Tableau** dashboards for data analysis.
+- Developing a recommendation engine for personalized incentives and integrating **Langchain** technology.
 
 
 ## 🎯 Hobbies and Interests
