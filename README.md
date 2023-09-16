@@ -19,22 +19,17 @@
 - Master of Science in Data Science, University at Buffalo (2023)
   - Relevant coursework: Machine Learning, Big Data Analytics, Data Visualization
 
-- Master of Science in Advanced Manufacturing Systems, Jawaharlal Nehru Technological University (2021)
-  - Relevant coursework: Industrial Automation, Supply Chain Management, Lean Manufacturing Principles
 
-## 💼 Work Experience
-### Data Scientist Intern | Marvel Technology Solutions | Jun 2022 - Aug 2022
+## 💼 Recent Work Experience
+### Data Scientist-Team Lead, Community Dreams Foundation, USA (Volunteer)                                           Jul 2023 - Present
+• **Led** a dynamic team of data analysts, leveraging computer vision techniques for in-depth energy data analysis.
+• Established an efficient and scalable database infrastructure, integrating **web scraping** for real-time data acquisition.
+• Applied advanced **statistical models, data visualization, and computer vision** to uncover intricate patterns and trends.
+• Pioneered a customized chatbot using cutting-edge **Large Language Model (LLM)** technology for personalized interactions.
+• Collaborated with experts and community partners to translate **data insights** into sustainable energy strategies.
+• Building a **GCP-based database**, creating **Power BI and Tableau** dashboards for data analysis.
+• Developing a recommendation engine for personalized incentives and integrating **Langchain** technology.
 
-- Developed a recommendation system for an e-commerce company using Python.
-- Utilized collaborative filtering, content-based filtering, and Tableau for data visualization.
-- Employed advanced techniques like dimensionality reduction and TensorFlow for deep learning.
-
-### Data Scientist | ValueMomentum | Hyderabad, India | May 2019 – July 2021
-
-- Developed a content-based recommendation engine for the Whitecoats application, suggesting relevant articles.
-- Conducted data analysis and generated embeddings for similarity measurement.
-- Streamlined business categorization using web scraping and text classification techniques.
-- Contributed to enhancing user experience and facilitating accurate risk assessment.
 
 ## 🎯 Hobbies and Interests
 
