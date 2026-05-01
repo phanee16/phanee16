@@ -452,3 +452,165 @@ mindmap
 [![Medium](https://img.shields.io/badge/Read_My_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@PhaneeshaChilaveni)
 
 </div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Phaneesha;Software+Engineer+%2B+Data+Scientist;Mainframe+%E2%86%94+Cloud+%E2%86%94+AI)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://phanee16.github.io/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-7F77DD?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/phaneesha-chilaveni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@PhaneeshaChilaveni"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:venkatasaiphaneesha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=phanee16&color=7F77DD&style=flat-square&label=Profile+Views" />
+
+</div>
+
+---
+
+## 🌌 Tech Universe
+
+<div align="center">
+
+```
+  ╔══════════════╗        ╔══════════════╗        ╔══════════════╗
+  ║  🖥️ MAINFRAME ║◀──────▶║  🐍 LANGUAGES ║◀──────▶║   ☁️  CLOUD   ║
+  ║              ║        ║              ║        ║              ║
+  ║  COBOL · JCL ║        ║   Python     ║        ║  Azure · AWS ║
+  ║  CICS · DB2  ║        ║   Java · SQL ║        ║  GCP · Snow  ║
+  ║  VSAM · IBM  ║        ║   Bash · R   ║        ║  BigQuery    ║
+  ╚══════════════╝        ╚══════════════╝        ╚══════════════╝
+          ▲                       ▲                       ▲
+          └───────────────────────┴───────────────────────┘
+                                  │
+                    ╔═════════════╩══════════════╗
+                    ║          🤖  AI / ML        ║
+                    ║  LLMs · RAG · NLP · PyTorch ║
+                    ║  TensorFlow · Scikit-Learn  ║
+                    ╚════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ⚡ Skills Dashboard
+
+<div align="center">
+
+| 🖥️ Mainframe | ☁️ Cloud & Infra | 🤖 AI / ML | 📊 BI & Viz |
+|:---:|:---:|:---:|:---:|
+| ![COBOL](https://img.shields.io/badge/COBOL-003087?style=flat-square&logo=ibm&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| ![JCL](https://img.shields.io/badge/JCL-003087?style=flat-square&logo=ibm&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| ![CICS](https://img.shields.io/badge/CICS-003087?style=flat-square&logo=ibm&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Looker](https://img.shields.io/badge/Looker-EF4F33?style=flat-square&logo=looker&logoColor=white) |
+| ![DB2](https://img.shields.io/badge/DB2-003087?style=flat-square&logo=ibm&logoColor=white) | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) | ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| ![VSAM](https://img.shields.io/badge/VSAM-003087?style=flat-square&logo=ibm&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![RAG](https://img.shields.io/badge/RAG_Pipeline-412991?style=flat-square&logo=openai&logoColor=white) | ![BigQuery](https://img.shields.io/badge/BigQuery-FABC0C?style=flat-square&logo=googlebigquery&logoColor=black) |
+| ![IBM MQ](https://img.shields.io/badge/IBM_MQ-003087?style=flat-square&logo=ibm&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=phanee16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7F77DD&icon_color=5DCAA5&ring_color=7F77DD" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanee16&layout=donut&theme=tokyonight&hide_border=true&title_color=7F77DD" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=phanee16&theme=tokyonight&hide_border=true&ring=7F77DD&fire=5DCAA5&currStreakLabel=7F77DD&sideLabels=7F77DD)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phanee16&theme=tokyo-night&hide_border=true&area=true&color=7F77DD&line=5DCAA5&point=FFFFFF&area_color=7F77DD)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=phanee16&theme=tokyonight&no-frame=true&column=6&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 What I'm Building
+
+```mermaid
+mindmap
+  root((Phaneesha))
+    Mainframe Engineering
+      COBOL → Azure modernization
+      IBM MQ integrations
+      JCL batch automation
+    AI and ML
+      LLM applications
+      RAG pipelines
+      Predictive analytics
+    Research
+      DBA in Cybersecurity
+      Genomics ML pipeline
+      Route optimization
+    Cloud
+      Azure · AWS · GCP
+      Snowflake · BigQuery
+      Power BI dashboards
+```
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer |
+|:---:|---|:---:|
+| 🥇 | IBM Mainframe Developer | IBM |
+| 🥇 | IBM Data Engineering Professional | IBM |
+| 🥇 | IBM Data Analyst Professional | IBM |
+| 🥇 | Google Data Analytics Professional | Google |
+| 🥇 | Snowflake Data Engineer Workshop | Snowflake |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🔬  DBA in Cybersecurity          Westcliff University   In Progress│
+│  📊  MS in Data Science            Univ. at Buffalo       GPA: 4.0  │
+│  ⚙️   B.E. + M.E. Mechanical Eng.  JNTUH                  GPA: 3.9  │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+*"Where mainframe reliability meets modern AI — engineering systems that last."*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-7F77DD?style=for-the-badge)](https://phanee16.github.io/)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phaneesha-chilaveni/)
+[![Medium](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@PhaneeshaChilaveni)
+
+</div>
