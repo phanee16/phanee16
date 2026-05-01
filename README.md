@@ -85,16 +85,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 &nbsp; GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=phanee16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7F77DD&icon_color=5DCAA5&cache_seconds=1800" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanee16&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD&cache_seconds=1800" height="170"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=phanee16&theme=tokyonight&hide_border=true&ring=7F77DD&fire=5DCAA5&currStreakLabel=7F77DD"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phanee16&theme=tokyo-night&hide_border=true&area=true&color=7F77DD&line=5DCAA5&point=FFFFFF"/>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
