@@ -22,14 +22,11 @@
 
 ## 🌌 &nbsp; About Me
 
-```python
-class Phaneesha:
-    location   = "Illinois, USA 📍"
-    now        = "MSR Technology Group → Illinois Secretary of State"
-    studying   = "DBA Cybersecurity @ Westcliff University"
-    superpower = "Bridging 60-year-old COBOL with cutting-edge LLMs"
-    fun_fact   = "Kayaks, paints, cooks AND writes ML pipelines 🎨🛶"
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=400&color=A5D6FF&center=false&vCenter=false&multiline=true&repeat=false&width=720&height=160&lines=class+Phaneesha%3A;++++location+++%3D+%22Illinois%2C+USA+%F0%9F%93%8D%22;++++now++++++++%3D+%22MSR+Technology+Group+%E2%86%92+Illinois+Secretary+of+State%22;++++studying+++%3D+%22DBA+Cybersecurity+%40+Westcliff+University%22;++++superpower+%3D+%22Bridging+60-year-old+COBOL+with+cutting-edge+LLMs%22;++++fun_fact+++%3D+%22Kayaks%2C+paints%2C+cooks+AND+writes+ML+pipelines+%F0%9F%8E%A8%F0%9F%9B%B6%22)](https://git.io/typing-svg)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
