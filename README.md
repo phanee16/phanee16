@@ -8,24 +8,6 @@
 -
 ## 🔗 Connect with Me
 
-name: Generate Snake
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: phanee16
-          outputs: dist/github-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
 <div>
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
@@ -319,5 +301,154 @@ Let's build something impactful together.
 ---
 
 *"Embracing the data-driven revolution and shaping the future 🚀"*
+
+</div>
+<div align="center">
+
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Phaneesha;Software+Engineer+%2B+Data+Scientist;Mainframe+%E2%86%94+Cloud+%E2%86%94+AI)](https://git.io/typing-svg)
+
+<!-- Social badges -->
+<p>
+  <a href="https://phanee16.github.io/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-7F77DD?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/phaneesha-chilaveni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@PhaneeshaChilaveni"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:venkatasaiphaneesha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=phanee16&color=7F77DD&style=flat-square" />
+
+</div>
+
+---
+
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phanee16/phanee16/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phanee16/phanee16/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/phanee16/phanee16/output/github-snake.svg" />
+</picture>
+
+---
+
+## 🌌 Tech Universe
+
+```
+        ╭─────────────────────────────────────────────────────────╮
+        │                                                         │
+        │      🖥️ MAINFRAME          ☁️ CLOUD          🤖 AI/ML   │
+        │    ┌──────────┐         ┌──────────┐      ┌──────────┐ │
+        │    │  COBOL   │ ───────▶│  Azure   │      │  LLMs    │ │
+        │    │  JCL     │         │  AWS     │ ◀───▶│  RAG     │ │
+        │    │  CICS    │ ───────▶│  GCP     │      │  NLP     │ │
+        │    │  DB2     │         │Snowflake │      │TensorFlow│ │
+        │    └──────────┘         └──────────┘      └──────────┘ │
+        │         │                    │                  │       │
+        │         └────────────────────┴──────────────────┘       │
+        │                        Python · SQL · Java              │
+        ╰─────────────────────────────────────────────────────────╯
+```
+
+---
+
+## ⚡ Skills at a Glance
+
+<div align="center">
+
+| 🖥️ Mainframe | ☁️ Cloud & Infra | 🤖 AI / ML | 📊 Visualization |
+|:---:|:---:|:---:|:---:|
+| ![COBOL](https://img.shields.io/badge/COBOL-003087?style=flat-square&logo=ibm&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| ![JCL](https://img.shields.io/badge/JCL-003087?style=flat-square&logo=ibm&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| ![CICS](https://img.shields.io/badge/CICS-003087?style=flat-square&logo=ibm&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white) | ![Looker](https://img.shields.io/badge/Looker-EF4F33?style=flat-square&logo=looker&logoColor=white) |
+| ![DB2](https://img.shields.io/badge/DB2-003087?style=flat-square&logo=ibm&logoColor=white) | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) | ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| ![VSAM](https://img.shields.io/badge/VSAM-003087?style=flat-square&logo=ibm&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![BigQuery](https://img.shields.io/badge/BigQuery-FABC0C?style=flat-square&logo=googlebigquery&logoColor=black) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phanee16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7F77DD&icon_color=5DCAA5" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanee16&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanee16&theme=tokyo-night&hide_border=true&area=true&color=7F77DD&line=5DCAA5&point=7F77DD" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phanee16&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+```mermaid
+mindmap
+  root((Phaneesha))
+    Mainframe Engineering
+      COBOL modernization
+      Azure Data Lake migration
+      IBM MQ integrations
+    Data Science
+      LLM applications
+      RAG pipelines
+      NLP solutions
+    Research
+      DBA Cybersecurity
+      ML for genomics
+      Route optimization
+    Cloud
+      Azure · AWS · GCP
+      Snowflake
+      BigQuery
+```
+
+---
+
+## 🌊 Contribution Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=phanee16&theme=tokyonight&hide_border=true&ring=7F77DD&fire=5DCAA5&currStreakLabel=7F77DD" />
+</div>
+
+---
+
+## 🎓 Certifications Wall
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🥇  IBM Mainframe Developer                                             │
+│  🥇  IBM Data Engineering Professional Certificate                       │
+│  🥇  IBM Data Analyst Professional Certificate                           │
+│  🥇  Google Data Analytics Professional Certificate                      │
+│  🥇  Snowflake Data Engineer Workshop                                    │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+*"Where mainframe reliability meets modern AI — engineering systems that last."*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-7F77DD?style=for-the-badge)](https://phanee16.github.io/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phaneesha-chilaveni/)
+[![Medium](https://img.shields.io/badge/Read_My_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@PhaneeshaChilaveni)
 
 </div>
