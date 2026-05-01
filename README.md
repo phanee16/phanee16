@@ -156,9 +156,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-🍳 &nbsp; 🛶 &nbsp; 🏄 &nbsp; ⛸️ &nbsp; 🎨 &nbsp; 🎮
-🍳 Cooking  ·  🛶 Kayaking  ·  🏄 River Rafting  ·  ⛸️ Ice Skating  ·  🎨 Painting  ·  🎮 Mobile Games
+## 🚀 &nbsp; Hobbies
+🧶 Crochet  ·  🎨 Painting  ·  🍳 Cooking  ·  📚 Reading  ·  🛶 Kayaking  ·  🏄 River Rafting
 
 *"Where mainframe reliability meets modern AI — engineering systems that last."*
 
