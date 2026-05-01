@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Phaneesha%20Chilaveni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20ML%20Researcher&descSize=18&descAlignY=60&descColor=ccc"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7F77DD&center=true&vCenter=true&width=720&height=40&lines=Mainframe+Engineer+%E2%86%94+Cloud+Architect+%E2%86%94+AI+Builder;COBOL+%7C+Python+%7C+LLMs+%7C+Azure+%7C+GCP;Currently+%40+Illinois+Secretary+of+State)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7F77DD&center=true&vCenter=true&width=720&height=40&lines=Mainframe+Engineer+%E2%86%94+Data+Scientist+%E2%86%94+AI+Enthusiast;COBOL+%7C+Python+%7C+LLMs+%7C+Azure+%7C+GCP;Currently+%40+Illinois+Secretary+of+State)](https://git.io/typing-svg)
 
 <br/>
 
@@ -147,7 +147,7 @@
 
 | Degree | School | GPA |
 |:---|:---|:---:|
-| 🔐 DBA — Cybersecurity *(In Progress)* | Westcliff University | — |
+| 🔐 DBA — Cybersecurity *(In Progress)* | Westcliff University | **4.0** |
 | 📊 MS — Data Science | University at Buffalo, SUNY | **4.0** |
 | ⚙️ B.E. + M.E. — Mechanical Engineering | JNTUH College of Engineering | **3.9** |
 
