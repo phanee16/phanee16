@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Phaneesha%20Chilaveni&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20ML%20Researcher&descSize=17&descAlignY=60&descColor=bbb"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Phaneesha%20Chilaveni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20ML%20Researcher&descSize=18&descAlignY=60&descColor=ccc"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=7F77DD&center=true&vCenter=true&width=720&height=45&lines=Mainframe+Engineer+%E2%86%94+Cloud+Architect+%E2%86%94+AI+Builder;COBOL+%7C+Python+%7C+LLMs+%7C+Azure+%7C+GCP;5%2B+Years+%7C+MS+Data+Science+%40+UB+%7C+GPA+4.0;Currently+%40+Illinois+Secretary+of+State)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7F77DD&center=true&vCenter=true&width=720&height=40&lines=Mainframe+Engineer+%E2%86%94+Cloud+Architect+%E2%86%94+AI+Builder;COBOL+%7C+Python+%7C+LLMs+%7C+Azure+%7C+GCP;Currently+%40+Illinois+Secretary+of+State)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,8 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phaneesha-chilaveni/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@PhaneeshaChilaveni)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatasaiphaneesha@gmail.com)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phanee16&color=7F77DD&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/phanee16?style=for-the-badge&color=5DCAA5&labelColor=0d1117&logo=github)
@@ -88,17 +86,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=phanee16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7F77DD&icon_color=5DCAA5" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanee16&layout=donut&theme=tokyonight&hide_border=true&title_color=7F77DD" height="170"/>
+| 🏆 Repos | ⭐ Stars | 👥 Followers | 📅 Years |
+|:---:|:---:|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/72-Repositories-7F77DD?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117) | ![Stars](https://img.shields.io/github/stars/phanee16?style=for-the-badge&color=5DCAA5&labelColor=0d1117&logo=github&label=Stars) | ![Followers](https://img.shields.io/github/followers/phanee16?style=for-the-badge&color=D85A30&labelColor=0d1117&logo=github&label=Followers) | ![Years](https://img.shields.io/badge/5%2B-Years_Coding-7F77DD?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117) |
 
 <br/>
 
-[![Streak](https://streak-stats.demolab.com?user=phanee16&theme=tokyonight&hide_border=true&ring=7F77DD&fire=5DCAA5&currStreakLabel=7F77DD)](https://git.io/streak-stats)
+**Languages & Proficiency**
 
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phanee16&theme=tokyo-night&hide_border=true&area=true&color=7F77DD&line=5DCAA5&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Python](https://img.shields.io/badge/Python-░░░░░░░░░░_95%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-░░░░░░░░░_90%25-003087?style=flat-square&logo=ibm&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-░░░░░░░░░_92%25-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-░░░░░░░_75%25-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-░░░░░░_65%25-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-░░░░░_55%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </div>
 
@@ -120,15 +121,17 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🗺️ [**OptiRoute TSP Solver**](https://github.com/phanee16/OptiRoute-Dynamic-TSP-Solver) | Nearest-neighbor TSP solver with live geographic map visualization | `Python` `Folium` `OpenStreetMap` |
-| 🚦 [**NYC Collision Analytics**](https://github.com/phanee16/-Web-Application-for-Analyzing-NYC-Collision-Data-) | End-to-end web app: BigQuery ingestion → Streamlit → Looker Studio | `Python` `GCP` `BigQuery` `Streamlit` |
-| 🧬 [**Autism Gene Prediction**](https://github.com/phanee16/-Comparative-Analysis-of-Boosting-Algorithms-for-Autism-Detection-using-Genome-Data-) | 84% AUC-ROC — XGBoost, RF, GBM on genomic data | `R` `XGBoost` `Scikit-Learn` |
-| 🎮 [**SARSA RL Grid Agent**](https://github.com/phanee16/Enhancing-Gaming-with-SARSA-Algorithm-Grid-based-Reinforcement-Learning) | Reinforcement learning agent trained with SARSA algorithm | `Python` `OpenAI Gym` |
-| 🔍 [**Chicago Crime Analysis**](https://github.com/phanee16/Crime-Data-Analysis) | Geospatial + statistical analysis of Chicago criminal data | `Python` `Pandas` `Folium` |
+| 🗺️ [**OptiRoute TSP Solver**](https://github.com/phanee16/OptiRoute-Dynamic-TSP-Solver) | Nearest-neighbor TSP with live geographic map | `Python` `Folium` `OpenStreetMap` |
+| 🚦 [**NYC Collision Analytics**](https://github.com/phanee16/-Web-Application-for-Analyzing-NYC-Collision-Data-) | BigQuery ingestion → Streamlit → Looker Studio | `Python` `GCP` `BigQuery` `Streamlit` |
+| 🧬 [**Autism Gene Prediction**](https://github.com/phanee16/-Comparative-Analysis-of-Boosting-Algorithms-for-Autism-Detection-using-Genome-Data-) | 84% AUC-ROC on genomic data | `R` `XGBoost` `Scikit-Learn` |
+| 🎮 [**SARSA RL Grid Agent**](https://github.com/phanee16/Enhancing-Gaming-with-SARSA-Algorithm-Grid-based-Reinforcement-Learning) | Reinforcement learning with SARSA | `Python` `OpenAI Gym` |
+| 🔍 [**Chicago Crime Analysis**](https://github.com/phanee16/Crime-Data-Analysis) | Geospatial + statistical crime pattern analysis | `Python` `Pandas` `Folium` |
 
 </div>
 
-## 🏅 &nbsp; Certifications &nbsp;&nbsp; 🎓 &nbsp; Education
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏅 &nbsp; Certifications &nbsp;&nbsp;&nbsp; 🎓 &nbsp; Education
 
 <div align="center">
 
@@ -145,8 +148,8 @@
 | Degree | School | GPA |
 |:---|:---|:---:|
 | 🔐 DBA — Cybersecurity *(In Progress)* | Westcliff University | — |
-| 📊 MS — Data Science | University at Buffalo, SUNY | **4.0 / 4.0** |
-| ⚙️ B.E. + M.E. — Mechanical Engineering | JNTUH College of Engineering | **3.9 / 4.0** |
+| 📊 MS — Data Science | University at Buffalo, SUNY | **4.0** |
+| ⚙️ B.E. + M.E. — Mechanical Engineering | JNTUH College of Engineering | **3.9** |
 
 </div>
 
@@ -154,9 +157,7 @@
 
 <div align="center">
 
-🍳 Cooking &nbsp;·&nbsp; 🛶 Kayaking &nbsp;·&nbsp; 🏄 River Rafting &nbsp;·&nbsp; ⛸️ Ice Skating &nbsp;·&nbsp; 🎨 Painting &nbsp;·&nbsp; 🎮 Mobile Games
-
-<br/>
+🍳 &nbsp; 🛶 &nbsp; 🏄 &nbsp; ⛸️ &nbsp; 🎨 &nbsp; 🎮
 
 *"Where mainframe reliability meets modern AI — engineering systems that last."*
 
