@@ -158,6 +158,7 @@
 <div align="center">
 
 🍳 &nbsp; 🛶 &nbsp; 🏄 &nbsp; ⛸️ &nbsp; 🎨 &nbsp; 🎮
+🍳 Cooking  ·  🛶 Kayaking  ·  🏄 River Rafting  ·  ⛸️ Ice Skating  ·  🎨 Painting  ·  🎮 Mobile Games
 
 *"Where mainframe reliability meets modern AI — engineering systems that last."*
 
