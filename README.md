@@ -1,11 +1,6 @@
 ### "🚀 Want to know more about my expertise? 🕵️‍♂️ Take a deeper dive into my profile and discover the realm of my skills and experiences. 🌟"
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phanee16&show_icons=true&theme=tokyonight)
--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phanee16&layout=compact&theme=tokyonight)
--
-[![GitHub Streak](https://streak-stats.demolab.com?user=phanee16&theme=tokyonight)](https://git.io/streak-stats)
--
+
 ## 🔗 Connect with Me
 
           
@@ -18,21 +13,8 @@
 </div>
 
 
-## 🎓 Education
-
-- Master of Science in Data Science, University at Buffalo (2023)
-  - Relevant coursework: Machine Learning, Big Data Analytics, Data Visualization
 
 
-## 💼 Recent Work Experience
-### Data Scientist-Team Lead, Community Dreams Foundation, USA (Volunteer)                                           Jul 2023 - Present
-- **Led** a dynamic team of data analysts, leveraging computer vision techniques for in-depth energy data analysis.
-- Established an efficient and scalable database infrastructure, integrating **web scraping** for real-time data acquisition.
-- Applied advanced **statistical models, data visualization, and computer vision** to uncover intricate patterns and trends.
-- Pioneered a customized chatbot using cutting-edge **Large Language Model (LLM)** technology for personalized interactions.
-- Collaborated with experts and community partners to translate **data insights** into sustainable energy strategies.
-- Building a **GCP-based database**, creating **Power BI and Tableau** dashboards for data analysis.
-- Developing a recommendation engine for personalized incentives and integrating **Langchain** technology.
 
 
 ## 🎯 Hobbies and Interests
@@ -162,30 +144,6 @@
 
 </div>
 
----
-
-## `whoami`
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name        = "Phaneesha Chilaveni"
-        self.role        = "Data Scientist & ML Engineer"
-        self.education   = "MS Data Science — University at Buffalo (2023)"
-        self.location    = "Buffalo, NY, USA"
-        self.focus       = ["Machine Learning", "LLMs", "Data Engineering", "MLOps"]
-        self.currently   = "Leading ML initiatives @ Community Dreams Foundation"
-        self.looking_for = "Full-time Data Scientist / ML Engineer roles"
-
-    def say_hi(self):
-        print("I build intelligent systems that turn messy data into clear decisions.")
-        print("Ask me about ML pipelines, LLM apps, or anything GCP.")
-
-me = DataScientist()
-me.say_hi()
-```
-
----
 
 ## `git log --oneline` — What I've Built
 
